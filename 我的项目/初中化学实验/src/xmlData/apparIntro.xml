@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!--实验器材介绍-->
+	<appar>
+		<name>量筒</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/量筒.swf</url> 
+	</appar>
+	<appar>
+		<name>托盘天平</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/托盘天平.swf</url> 
+	</appar>
+	<appar>
+		<name>温度计</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/温度计.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>烧杯</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/烧杯.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>试管架</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/试管架.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>石棉网</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/石棉网.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>玻璃棒</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/玻璃棒.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>集气瓶</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/集气瓶.swf</url> 
+	</appar>
+	
+	<appar>
+		<name>试管夹</name>
+		<type>器材</type>
+		<url>swfsrc/appaintro/试管夹.swf</url> 
+	</appar>
+	
+
+	<!--认识元素，元素基础知识及元素周期表-->
+	<appar>
+		<name>元素基础知识</name>
+		<type>认识元素</type>
+		<url>swfsrc/eleIntro/元素基础知识.swf</url> 
+	</appar>
+	<appar>
+		<name>元素周期表</name>
+		<type>认识元素</type>
+		<url>swfsrc/eleIntro/元素周期表.swf</url> 
+	</appar>
+</data>

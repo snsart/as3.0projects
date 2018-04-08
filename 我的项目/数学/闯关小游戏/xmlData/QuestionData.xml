@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QuestionData>
+<!-- 第1-10题 -->
+	<question>
+		<text>7+4=</text>
+		<answers>
+			<answer type="correct">11</answer>
+			<answer type="wrong">12</answer>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">14</answer>
+		</answers>
+	</question>
+	<question>
+		<text>5+9=</text>
+		<answers>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">16</answer>
+			<answer type="correct">14</answer>
+			<answer type="wrong">15</answer>
+		</answers>
+	</question>
+	<question>
+		<text>15-8=</text>
+		<answers>
+			<answer type="wrong">5</answer>
+			<answer type="wrong">6</answer>
+			<answer type="correct">7</answer>
+			<answer type="wrong">8</answer>
+		</answers>
+	</question>
+	<question>
+		<text>9-4=</text>
+		<answers>
+			<answer type="wrong">6</answer>
+			<answer type="wrong">7</answer>
+			<answer type="wrong">4</answer>
+			<answer type="correct">5</answer>
+		</answers>
+	</question>
+	<question>
+		<text>11+7=</text>
+		<answers>
+			<answer type="wrong">17</answer>
+			<answer type="correct">18</answer>
+			<answer type="wrong">19</answer>
+			<answer type="wrong">20</answer>
+		</answers>
+	</question>
+	<question>
+		<text>17-8=</text>
+		<answers>
+			<answer type="wrong">6</answer>
+			<answer type="wrong">7</answer>
+			<answer type="wrong">8</answer>
+			<answer type="correct">9</answer>
+		</answers>
+	</question>
+	<question>
+		<text>12+9=</text>
+		<answers>
+			<answer type="wrong">20</answer>
+			<answer type="correct">21</answer>
+			<answer type="wrong">22</answer>
+			<answer type="wrong">23</answer>
+		</answers>
+	</question>
+	<question>
+		<text>25-12=</text>
+		<answers>
+			<answer type="wrong">15</answer>
+			<answer type="correct">13</answer>
+			<answer type="wrong">14</answer>
+			<answer type="wrong">16</answer>
+		</answers>
+	</question>
+	<question>
+		<text>16+7=</text>
+		<answers>
+			<answer type="wrong">21</answer>
+			<answer type="wrong">22</answer>
+			<answer type="correct">23</answer>
+			<answer type="wrong">24</answer>
+		</answers>
+	</question>
+	<question>
+		<text>27-10=</text>
+		<answers>
+			<answer type="correct">17</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">18</answer>
+			<answer type="wrong">16</answer>
+		</answers>
+	</question>
+<!-- 第11-20题 -->
+ 	<question>
+		<text>3×8=</text>
+		<answers>
+			<answer type="wrong">25</answer>
+			<answer type="wrong">27</answer>
+			<answer type="wrong">26</answer>
+			<answer type="correct">24</answer>
+		</answers>
+	</question>
+	<question>
+		<text>29-15=</text>
+		<answers>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">16</answer>
+			<answer type="correct">14</answer>
+			<answer type="wrong">15</answer>
+		</answers>
+	</question>
+	<question>
+		<text>15÷3=</text>
+		<answers>
+			<answer type="wrong">4</answer>
+			<answer type="correct">5</answer>
+			<answer type="wrong">6</answer>
+			<answer type="wrong">7</answer>
+		</answers>
+	</question>
+	<question>
+		<text>9×4=</text>
+		<answers>
+			<answer type="correct">36</answer>
+			<answer type="wrong">38</answer>
+			<answer type="wrong">32</answer>
+			<answer type="wrong">13</answer>
+		</answers>
+	</question>
+	<question>
+		<text>11+7=</text>
+		<answers>
+			<answer type="wrong">17</answer>
+			<answer type="correct">18</answer>
+			<answer type="wrong">19</answer>
+			<answer type="wrong">20</answer>
+		</answers>
+	</question>
+	<question>
+		<text>30-21=</text>
+		<answers>
+			<answer type="wrong">6</answer>
+			<answer type="wrong">7</answer>
+			<answer type="wrong">8</answer>
+			<answer type="correct">9</answer>
+		</answers>
+	</question>
+	<question>
+		<text>23+8=</text>
+		<answers>
+			<answer type="wrong">29</answer>
+			<answer type="wrong">30</answer>
+			<answer type="correct">31</answer>
+			<answer type="wrong">32</answer>
+		</answers>
+	</question>
+	<question>
+		<text>3×6=</text>
+		<answers>
+			<answer type="correct">18</answer>
+			<answer type="wrong">16</answer>
+			<answer type="wrong">14</answer>
+			<answer type="wrong">13</answer>
+		</answers>
+	</question>
+	<question>
+		<text>20÷2=</text>
+		<answers>
+			<answer type="wrong">40</answer>
+			<answer type="wrong">30</answer>
+			<answer type="wrong">20</answer>
+			<answer type="correct">10</answer>
+		</answers>
+	</question>
+	<question>
+		<text>100×0=</text>
+		<answers>
+			<answer type="wrong">100</answer>
+			<answer type="wrong">10</answer>
+			<answer type="wrong">1</answer>
+			<answer type="correct">0</answer>
+		</answers>
+	</question>
+<!-- 第21-30题 -->
+ 	<question>
+		<text>15×10=</text>
+		<answers>
+			<answer type="wrong">130</answer>
+			<answer type="wrong">140</answer>
+			<answer type="correct">150</answer>
+			<answer type="wrong">160</answer>
+		</answers>
+	</question>
+	<question>
+		<text>20×0.1=</text>
+		<answers>
+			<answer type="correct">2</answer>
+			<answer type="wrong">20</answer>
+			<answer type="wrong">100</answer>
+			<answer type="wrong">200</answer>
+		</answers>
+	</question>
+	<question>
+		<text>75÷5=</text>
+		<answers>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">15</answer>
+			<answer type="wrong">16</answer>
+		</answers>
+	</question>
+	<question>
+		<text>25×5=</text>
+		<answers>
+			<answer type="correct">125</answer>
+			<answer type="wrong">225</answer>
+			<answer type="wrong">175</answer>
+			<answer type="wrong">145</answer>
+		</answers>
+	</question>
+	<question>
+		<text>(2+3)×2=</text>
+		<answers>
+			<answer type="wrong">8</answer>
+			<answer type="correct">10</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>3+5×2=</text>
+		<answers>
+			<answer type="wrong">16</answer>
+			<answer type="wrong">11</answer>
+			<answer type="correct">13</answer>
+			<answer type="wrong">30</answer>
+		</answers>
+	</question>
+	<question>
+		<text>35+5-3=</text>
+		<answers>
+			<answer type="correct">37</answer>
+			<answer type="wrong">32</answer>
+			<answer type="wrong">35</answer>
+			<answer type="wrong">34</answer>
+		</answers>
+	</question>
+	<question>
+		<text>29+12=</text>
+		<answers>
+			<answer type="wrong">31</answer>
+			<answer type="correct">41</answer>
+			<answer type="wrong">37</answer>
+			<answer type="wrong">47</answer>
+		</answers>
+	</question>
+	<question>
+		<text>60÷5=</text>
+		<answers>
+			<answer type="wrong">9</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>10×5=</text>
+		<answers>
+			<answer type="correct">50</answer>
+			<answer type="wrong">60</answer>
+			<answer type="wrong">70</answer>
+			<answer type="wrong">80</answer>
+		</answers>
+	</question>
+<!-- 第31-40题 -->
+ 	<question>
+		<text>15×10=</text>
+		<answers>
+			<answer type="wrong">130</answer>
+			<answer type="wrong">140</answer>
+			<answer type="correct">150</answer>
+			<answer type="wrong">160</answer>
+		</answers>
+	</question>
+	<question>
+		<text>20×0.1=</text>
+		<answers>
+			<answer type="correct">2</answer>
+			<answer type="wrong">20</answer>
+			<answer type="wrong">100</answer>
+			<answer type="wrong">200</answer>
+		</answers>
+	</question>
+	<question>
+		<text>75÷5=</text>
+		<answers>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">15</answer>
+			<answer type="wrong">16</answer>
+		</answers>
+	</question>
+	<question>
+		<text>25×5=</text>
+		<answers>
+			<answer type="correct">125</answer>
+			<answer type="wrong">225</answer>
+			<answer type="wrong">175</answer>
+			<answer type="wrong">145</answer>
+		</answers>
+	</question>
+	<question>
+		<text>(2+3)×2=</text>
+		<answers>
+			<answer type="wrong">8</answer>
+			<answer type="correct">10</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>3+5×2=</text>
+		<answers>
+			<answer type="wrong">16</answer>
+			<answer type="wrong">11</answer>
+			<answer type="correct">13</answer>
+			<answer type="wrong">30</answer>
+		</answers>
+	</question>
+	<question>
+		<text>35+5-3=</text>
+		<answers>
+			<answer type="correct">37</answer>
+			<answer type="wrong">32</answer>
+			<answer type="wrong">35</answer>
+			<answer type="wrong">34</answer>
+		</answers>
+	</question>
+	<question>
+		<text>29+12=</text>
+		<answers>
+			<answer type="wrong">31</answer>
+			<answer type="correct">41</answer>
+			<answer type="wrong">37</answer>
+			<answer type="wrong">47</answer>
+		</answers>
+	</question>
+	<question>
+		<text>60÷5=</text>
+		<answers>
+			<answer type="wrong">9</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>10×5=</text>
+		<answers>
+			<answer type="correct">50</answer>
+			<answer type="wrong">60</answer>
+			<answer type="wrong">70</answer>
+			<answer type="wrong">80</answer>
+		</answers>
+	</question>
+<!-- 第41-50题 -->
+ 	<question>
+		<text>15×10=</text>
+		<answers>
+			<answer type="wrong">130</answer>
+			<answer type="wrong">140</answer>
+			<answer type="correct">150</answer>
+			<answer type="wrong">160</answer>
+		</answers>
+	</question>
+	<question>
+		<text>20×0.1=</text>
+		<answers>
+			<answer type="correct">2</answer>
+			<answer type="wrong">20</answer>
+			<answer type="wrong">100</answer>
+			<answer type="wrong">200</answer>
+		</answers>
+	</question>
+	<question>
+		<text>75÷5=</text>
+		<answers>
+			<answer type="wrong">13</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">15</answer>
+			<answer type="wrong">16</answer>
+		</answers>
+	</question>
+	<question>
+		<text>25×5=</text>
+		<answers>
+			<answer type="correct">125</answer>
+			<answer type="wrong">225</answer>
+			<answer type="wrong">175</answer>
+			<answer type="wrong">145</answer>
+		</answers>
+	</question>
+	<question>
+		<text>(2+3)×2=</text>
+		<answers>
+			<answer type="wrong">8</answer>
+			<answer type="correct">10</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>3+5×2=</text>
+		<answers>
+			<answer type="wrong">16</answer>
+			<answer type="wrong">11</answer>
+			<answer type="correct">13</answer>
+			<answer type="wrong">30</answer>
+		</answers>
+	</question>
+	<question>
+		<text>35+5-3=</text>
+		<answers>
+			<answer type="correct">37</answer>
+			<answer type="wrong">32</answer>
+			<answer type="wrong">35</answer>
+			<answer type="wrong">34</answer>
+		</answers>
+	</question>
+	<question>
+		<text>29+12=</text>
+		<answers>
+			<answer type="wrong">31</answer>
+			<answer type="correct">41</answer>
+			<answer type="wrong">37</answer>
+			<answer type="wrong">47</answer>
+		</answers>
+	</question>
+	<question>
+		<text>60÷5=</text>
+		<answers>
+			<answer type="wrong">9</answer>
+			<answer type="wrong">15</answer>
+			<answer type="wrong">14</answer>
+			<answer type="correct">12</answer>
+		</answers>
+	</question>
+	<question>
+		<text>10×5=</text>
+		<answers>
+			<answer type="correct">50</answer>
+			<answer type="wrong">60</answer>
+			<answer type="wrong">70</answer>
+			<answer type="wrong">80</answer>
+		</answers>
+	</question>
+</QuestionData>
